@@ -59,12 +59,13 @@ Aplikasi ini dikembangkan sebagai **tugas perkuliahan** sekaligus media pembelaj
 ---
 
 ## 📸 Screenshot Aplikasi
-screenshots/
-├── home.png
-├── program.png
-├── latihan.png
-├── laporan.png
-└── pengaturan.png
+
+<img src="screenshots/Login.jpeg" width="300">
+<img src="screenshots/Latihan.jpeg" width="300">
+<img src="screenshots/Temukan.jpeg" width="300">
+<img src="screenshots/Program.jpeg" width="300">
+<img src="screenshots/Laporan.jpeg" width="300">
+<img src="screenshots/Pengaturan.jpeg" width="300">
 
 
 ## Teknologi yang Digunakan
