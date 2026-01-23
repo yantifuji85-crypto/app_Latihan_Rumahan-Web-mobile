@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "973709397226",
+    "firebase_url": "https://bodyweight-workout-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "bodyweight-workout",
+    "storage_bucket": "bodyweight-workout.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973709397226:android:886e8e555495db8bae1b93",
+        "android_client_info": {
+          "package_name": "com.example.bodyweight_workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973709397226-sb54rlnc3hbpug91sinmf3v1c6emrg91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bodyweight_workout",
+            "certificate_hash": "c941427274e438f677275993f02f5a8efaa37eb1"
+          }
+        },
+        {
+          "client_id": "973709397226-s5om1vccj4olrh3vi59rpon8h0t7o8k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYJeWq4RgRXJxXEvEZh-8pVvYxzUZSrB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973709397226-fqr90lhnkb806vdmt023tpgu7ml6o6a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
