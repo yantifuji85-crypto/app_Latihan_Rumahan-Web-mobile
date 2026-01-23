@@ -59,15 +59,13 @@ Aplikasi ini dikembangkan sebagai **tugas perkuliahan** sekaligus media pembelaj
 ---
 
 ## 📸 Screenshot Aplikasi
+screenshots/
+├── home.png
+├── program.png
+├── latihan.png
+├── laporan.png
+└── pengaturan.png
 
-> Tampilan aplikasi App Latihan Rumahan
-
-```md
-![Temukan Latihan](screenshots/Latihan.jpeg)
-![Target & Tantangan](screenshots/Temukan.jpeg)
-![Program Latihan](screenshots/Program.jpeg)
-![Laporan Latihan](screenshots/laporan.jpeg)
-![Pengaturan](screenshots/Laporan.jpeg)
 
 ## Teknologi yang Digunakan
 
