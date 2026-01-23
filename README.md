@@ -63,11 +63,11 @@ Aplikasi ini dikembangkan sebagai **tugas perkuliahan** sekaligus media pembelaj
 > Tampilan aplikasi App Latihan Rumahan
 
 ```md
-![Temukan Latihan](screenshots/Latihan.png)
-![Target & Tantangan](screenshots/Temukan.png)
-![Program Latihan](screenshots/Program.png)
-![Laporan Latihan](screenshots/laporan.png)
-![Pengaturan](screenshots/Laporan.png)
+![Temukan Latihan](screenshots/Latihan.jpeg)
+![Target & Tantangan](screenshots/Temukan.jpeg)
+![Program Latihan](screenshots/Program.jpeg)
+![Laporan Latihan](screenshots/laporan.jpeg)
+![Pengaturan](screenshots/Laporan.jpeg)
 
 ## Teknologi yang Digunakan
 
@@ -95,7 +95,7 @@ app_Latihan_Rumahan/
 ## Cara Menjalankan Aplikasi
 
 - Clone repository:
-git clone https://github.com/Mulana362/app_Latihan_Rumahan.git
+git clone https://github.com/yantifuji85-crypto/app_Latihan_Rumahan-Web-mobile
 
 - Masuk ke folder project:
 cd app_Latihan_Rumahan
