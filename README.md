@@ -14,11 +14,12 @@
 
 ## 👥 Tim Pengembang (Kelompok 6)
 Berikut adalah anggota tim di balik pengembangan aplikasi ini:
-* **Shofi**: Project Manager
-* **Jefry**: Frontend Developer
-* **Mulana**: Backend Developer
-* **Muhaemin**: Database Engineer
-* **Fujiyanti & Haddad**: Tester & Dokumentasi
+* **Shofi Dzaliha (14022300035)**: Project Manager
+* **Muhammad Jefry Al Buchory (14022400069)**: Frontend Developer
+* **Mulana (14022300030)**: Backend Developer
+* **Muhaemin Rokhemi  (14022300065)**: Database Engineer
+* **Fujiyanti (14022300008)**: Tester 
+* **Muhammad Haddad Pratama (14022300107)**: Dokumentasi
 
 ---
 
