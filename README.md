@@ -1,14 +1,24 @@
-# 🏋️‍♂️ App Latihan Rumahan (Flutter)
+# 🏋️‍♂️ Bodyweight Workout (Flutter)
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-blue?logo=flutter)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-blue?logo=dart)](https://dart.dev)
-![Platform](https://img.shields.io/badge/Platform-Android-green)
+[![Firebase](https://img.shields.io/badge/Database-Firebase-orange?logo=firebase)](https://firebase.google.com)
 ![Status](https://img.shields.io/badge/Build-Active-brightgreen)
 
 ## 📖 Deskripsi
-**App Latihan Rumahan** adalah solusi mobile berbasis **Flutter** untuk mendukung gaya hidup sehat melalui latihan mandiri di rumah. Project ini mengedepankan pengalaman pengguna yang intuitif dengan dukungan fitur modern.
+**Bodyweight Workout** adalah aplikasi mobile berbasis **Flutter** yang dirancang untuk membantu pengguna melakukan latihan fisik mandiri di rumah tanpa perlu alat tambahan. Project ini mengedepankan pengalaman pengguna yang intuitif dengan sinkronisasi data real-time menggunakan **Firebase**.
 
-> **🎯 Konteks Project:** Dikembangkan sebagai project utama mata kuliah *Mobile Application Development* (Semester 5).
+> **🎯 Konteks Project:** Dikembangkan sebagai project utama mata kuliah *Mobile Application Development* (Semester 5) oleh **Kelompok 6**.
+
+---
+
+## 👥 Tim Pengembang (Kelompok 6)
+Berikut adalah anggota tim di balik pengembangan aplikasi ini:
+* **Shofi**: Project Manager
+* **Jefry**: Frontend Developer
+* **Mulana**: Backend Developer
+* **Muhaemin**: Database Engineer
+* **Fujiyanti & Haddad**: Tester & Dokumentasi
 
 ---
 
@@ -26,19 +36,19 @@
 
 ## ✨ Fitur Unggulan
 - **🏋️ Variasi Latihan:** Rencana latihan (7–21 hari) mulai dari pemula hingga lanjutan.
-- **📊 Tracker Progres:** Monitoring riwayat latihan, estimasi kalori terbakar, dan grafik berat badan.
-- **🔍 Smart Discovery:** Fitur pencarian latihan cepat (Tabata) dan tantangan mingguan.
-- **🌙 Modern UI:** Full support **Dark Mode** dengan standar Material Design 3.
-- **🔊 Accessibility:** Integrasi **Text-to-Speech (TTS)** untuk panduan suara saat latihan.
+- **📊 Tracker Progres:** Monitoring riwayat latihan, estimasi kalori, dan berat badan.
+- **🔥 Firebase Integration:** Penyimpanan data dan sinkronisasi yang aman.
+- **🌙 Modern UI:** Full support **Dark Mode** dengan Material Design 3.
+- **🔊 Accessibility:** Integrasi panduan suara **Text-to-Speech (TTS)**.
 
 ---
 
 ## 🛠️ Detail Teknis & Instalasi
 
-### Prasyarat
-- Flutter SDK (Minimal v3.0)
-- Android Studio / VS Code
-- Emulator atau Real Device (Android)
+### Teknologi & Database
+* **Frontend:** Flutter & Dart
+* **Database:** Firebase (Auth, Firestore/Realtime Database)
+* **UI Standard:** Material Design 3
 
 ### Langkah Instalasi
 ```bash
