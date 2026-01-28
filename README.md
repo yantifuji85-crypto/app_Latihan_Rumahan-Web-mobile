@@ -51,6 +51,9 @@ Berikut adalah anggota tim di balik pengembangan aplikasi ini:
 * **Database:** Firebase (Auth, Firestore/Realtime Database)
 * **UI Standard:** Material Design 3
 
+### Rencana Pengembangan Fitur (Masa Depan) 
+Program Bodyweight Workout direncanakan untuk dikembangkan melalui fitur personalisasi latihan yang menyesuaikan program berdasarkan usia, berat badan, kebutuhan, kemampuan, dan tujuan pengguna, sehingga latihan menjadi lebih efektif, aman, dan sesuai dengan kondisi masing-masing individu.
+
 ### Langkah Instalasi
 ```bash
 # Clone repository
