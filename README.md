@@ -8,7 +8,7 @@
 ## 📖 Deskripsi
 **Bodyweight Workout** adalah aplikasi mobile berbasis **Flutter** yang dirancang untuk membantu pengguna melakukan latihan fisik mandiri di rumah tanpa perlu alat tambahan. Project ini mengedepankan pengalaman pengguna yang intuitif dengan sinkronisasi data real-time menggunakan **Firebase**.
 
-> **🎯 Konteks Project:** Dikembangkan sebagai project utama mata kuliah *Mobile Application Development* (Semester 5) oleh **Kelompok 6**.
+> **🎯 Konteks Project:** Dikembangkan sebagai project utama mata kuliah *PEMROGRAMAN MOBILE* (Semester 5) oleh **Kelompok 6**.
 
 ---
 
